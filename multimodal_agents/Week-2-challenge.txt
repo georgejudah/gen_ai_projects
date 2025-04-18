@@ -1,0 +1,11 @@
+# Week 2 Challenge
+Add more tools/Agents to enhance capabilities.
+
+- Add an agent that translates all responses to a different language
+and shows on the right hand side, using a different frontier model.
+
+- Add another tool to make a booking, writing to a text file
+or (added by me - connect to Airline API and check the prices).
+
+-  Add an agent that can listen for audio and convert to text so you can speak
+with the assistant directly.

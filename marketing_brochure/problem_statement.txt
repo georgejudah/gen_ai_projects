@@ -1,0 +1,9 @@
+Create a product that can generate marketing brochures about a company
+- For prospective clients
+- For investors
+- For recruitment
+
+The technology
+- Use Open AI API
+- Use one-shot prompting
+- Stream back results and show with formatting

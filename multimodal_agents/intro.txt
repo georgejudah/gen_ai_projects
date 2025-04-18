@@ -1,0 +1,18 @@
+Agents
+
+What are they?
+Software entities that can autonomously perform tasks that are goal oriented and are task specific.
+
+They are designed to work as a part of agent framework to solve complex problems with
+limited human investment.
+
+- Memory/Persistance.
+- Decision Making/ orchestration
+- Planning capabilities
+- Use of tools; potentially connecting to databases or the internet.
+
+
+What we are going to accomplish ?
+Image generation, Create agents to generate sounds and image for our store, Make an agent framework - teach our AI assistant to speak
+and draw.
+

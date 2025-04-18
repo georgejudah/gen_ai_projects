@@ -1,0 +1,10 @@
+# 2 different levels of transformer APIs
+- pipelines
+You can use for Standard every day tasks, give an input and it gives an output.
+Example - Sentiment Analysis, Classifier, Named entity recognition, question answering,
+summarization, translation. Working with texts, image and audio.
+All of the above can be done with 2 lines of code each.
+
+- Tokenizers and Models
+if you want to look at how you are tokenizing, training your models with extra knowledge
+and Nuance
