@@ -1,0 +1,4 @@
+# A solution combining both frontier models and open source models
+# which you can provide an audio file of the meeting and it will
+# convert it to a text and then give return you the minutes of meeting
+# which is basically a summary of the key items presented.
