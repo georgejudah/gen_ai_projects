@@ -1,0 +1,62 @@
+# How to compare LLMs
+
+Start with the basics
+# Parameters
+# Context length
+# Pricing
+
+The look at the results
+# Benchmarks
+# Leaderboards
+# Arenas
+
+# Basics #1
+# Open source or closed
+# Release data and knowledge cut off
+# Parameters
+# Training tokens
+# Context length
+
+# Basics #2
+# Inference cost
+# Training cost
+# Built cost
+# Time to market
+# Rate limits
+# Speed
+# Latency
+# License
+
+# The Chinchilla Scaling Law
+The number of Parameters ~ proportional to the number of training tokens
+
+# The 7 common Benchmarks that you will often encounter
+# ARC - Reasoning
+# DROP - Language comp
+# HellaSwag - Common sense
+# MMLU - understanding - problem solving accross 57 subjects
+#TruthfulQA - Accuracy
+# Winogrande - Context
+# GSM8K - Math - Math and word problems in elementry and middle school
+
+3 specific Benchmarks
+# ELO - Chat - results from head-to-head face-offs with other LLMs, as with ELO in chess
+# HumanEval - Python Coding - 164 problems witing code base on docstrings
+# MultiPL-E Broader coding - across 18 languages
+
+# Limitations of Benchmarks
+# Non consistently applied
+# Too narrow in scope
+# Hard to measure nuanced reasoning
+# Training data leakage
+# Overfitting
+
+# 6 hard, Next level Benchmarks
+# GPQA - Graduate tests - 448 expert questions; non-PhD humans score 34% even with web access
+# BBHard - Future capabilities - 204 tasks believed beyond capabilities of LLMs( no longer the case !)
+# Math Lv5 - Math - High-school level math competition problems
+# IFEval - Difficult instructions - like 'write more than 400 words' and 'mention AI atleast 3 times'
+# MuSR - Multistep Soft Reasoning - Logical deduction, such as analyzing 1000 word murder mystery
+# MMLU-PRO - 
+
+OPENLLM leader board - https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?official=true
