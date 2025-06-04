@@ -60,3 +60,14 @@ The number of Parameters ~ proportional to the number of training tokens
 # MMLU-PRO - 
 
 OPENLLM leader board - https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/?official=true
+
+
+Six Leaderboards
+Hugging Face Open LLMs
+HuggingFace Big Code
+Hugging Face LLM Perf
+Hugging Face Others - Medical, language context
+Vellum - includes API caost and context
+SEAL(Scale AI) - expert skills
+
+Human rated language models - chat bot arena

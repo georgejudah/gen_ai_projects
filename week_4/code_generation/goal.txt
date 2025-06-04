@@ -1,0 +1,3 @@
+""" We're going to use the model to re-implement the python code to c++
+with the fastest possible implmentation. Only respond with C++ code. The
+only requirement is that the c++ code prints the same result and runs fast."""
