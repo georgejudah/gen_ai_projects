@@ -1,0 +1,6 @@
+# Goals
+# The Vector Datastore
+# By the end of this session, you'll be able to:
+- Convert our chunks of text into Vectors using OpenAIEmbeddings
+- Store the vectors in Chroma, one of the most popular open-source vector datastores.
+- Visualizae and explore Vectors in a Chroma Vector Datastore in 2D and 3D.

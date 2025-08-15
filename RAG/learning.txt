@@ -1,0 +1,38 @@
+# Build a database of expert information, called a knowledge Base.
+
+# Every time thte user asks a question, search for anything relevant in the knowledge based
+
+# Add these details to the prompt
+
+
+# Goal
+# Business setup
+- We work for an insurance Tech Startup
+- We have a KB of the company shared drive
+- Task is to build an AI knowledge worker
+
+The Blunt instrument implementation
+- Read names of products and employees
+- See if questions refer to employee of products by name
+- Add relevant details to the prompt.
+
+By end of next time, we will be able to:
+- Describe the langchain framework, with benifits and limitations.
+- Use langchain to read in a knowledge base of documents.
+- Use langchain to divide up documents into overlapping chunks
+
+# Auto-encoding LLMs
+- Applications include sentimental Analysis and classification.
+- Also used to calculate "Vector Embeddings", representing an input
+as a list of number ie a Vector.
+- Examples include BERT from Google AI and OpenAIEmbeddings from OpenAI.
+
+# langchain
+- Help people to build LLM apps quickly, very quick time to market.
+- Includes it's own declarative language.
+
+Pros and Cons
+- Wrapper code around LLMs makes it easy to swap models.
+- As APis for LLMs have matured, converged and simplified, the need for a unifying
+framework like LangChain has decreased.
+
