@@ -175,3 +175,4 @@ cython_debug/
 
 # custom
 user_research/
+vector_db/
