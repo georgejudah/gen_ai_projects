@@ -1,0 +1,12 @@
+- We take pretrained model as base, and use additional training data to fine-tune
+to our task
+
+- Training a multi-billion parameter model from scratch would cost tens to hundreds of million $
+
+- Instead, we take a advantage of Transfer learning
+
+-- What you learn from this week
+---- Finding and Crafting Datasets for LLM Fine-Tuning: Sources and techniques
+---- Data Curation techniques for Fine-Tuning LLMs on Product descriptions
+---- Optimizing Training Data: Scrubbing techniques for LLM Fine-Tuning
+---- Evaluting LLM Performance: Model Centric vs Business-Centric Metrics 

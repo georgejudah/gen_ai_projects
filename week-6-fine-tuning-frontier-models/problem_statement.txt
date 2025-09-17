@@ -1,0 +1,7 @@
+A Juicy Commercial Problem
+
+Given a description of a problem, predict it's price
+- For a mmarketplace to estimate price of goods.
+- Future versions should be able to write and improve descriptions too/
+- We'd typically use regression model to predict prices, but there are good
+reasons to try GenAI.
